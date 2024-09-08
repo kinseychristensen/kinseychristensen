@@ -2,6 +2,9 @@
 
 Hi there 👋
 Portfolio: https://kinseychristensen.github.io/K_Christensen_Portfolio/
+
+
+
 Linked In: https://www.linkedin.com/in/kinsey-christensen/
 
  🔭 I’m currently working on preparing for my new career!
